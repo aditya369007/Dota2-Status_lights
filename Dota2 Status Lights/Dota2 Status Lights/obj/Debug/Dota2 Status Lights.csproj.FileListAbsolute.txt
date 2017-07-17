@@ -1,0 +1,8 @@
+c:\users\aditya\documents\visual studio 2017\Projects\Dota2 Status Lights\Dota2 Status Lights\bin\Debug\Dota2 Status Lights.exe.config
+c:\users\aditya\documents\visual studio 2017\Projects\Dota2 Status Lights\Dota2 Status Lights\bin\Debug\Dota2 Status Lights.exe
+c:\users\aditya\documents\visual studio 2017\Projects\Dota2 Status Lights\Dota2 Status Lights\bin\Debug\Dota2 Status Lights.pdb
+c:\users\aditya\documents\visual studio 2017\Projects\Dota2 Status Lights\Dota2 Status Lights\bin\Debug\Dota2GSI.dll
+c:\users\aditya\documents\visual studio 2017\Projects\Dota2 Status Lights\Dota2 Status Lights\bin\Debug\Dota2GSI.xml
+c:\users\aditya\documents\visual studio 2017\Projects\Dota2 Status Lights\Dota2 Status Lights\obj\Debug\Dota2 Status Lights.csprojResolveAssemblyReference.cache
+c:\users\aditya\documents\visual studio 2017\Projects\Dota2 Status Lights\Dota2 Status Lights\obj\Debug\Dota2 Status Lights.exe
+c:\users\aditya\documents\visual studio 2017\Projects\Dota2 Status Lights\Dota2 Status Lights\obj\Debug\Dota2 Status Lights.pdb

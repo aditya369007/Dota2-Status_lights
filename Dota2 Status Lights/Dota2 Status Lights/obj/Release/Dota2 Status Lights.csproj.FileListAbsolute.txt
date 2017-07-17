@@ -1,0 +1,7 @@
+c:\users\aditya\documents\visual studio 2017\Projects\Dota2 Status Lights\Dota2 Status Lights\bin\Release\Dota2 Status Lights.exe.config
+c:\users\aditya\documents\visual studio 2017\Projects\Dota2 Status Lights\Dota2 Status Lights\bin\Release\Dota2 Status Lights.exe
+c:\users\aditya\documents\visual studio 2017\Projects\Dota2 Status Lights\Dota2 Status Lights\bin\Release\Dota2 Status Lights.pdb
+c:\users\aditya\documents\visual studio 2017\Projects\Dota2 Status Lights\Dota2 Status Lights\bin\Release\Dota2GSI.dll
+c:\users\aditya\documents\visual studio 2017\Projects\Dota2 Status Lights\Dota2 Status Lights\bin\Release\Dota2GSI.xml
+c:\users\aditya\documents\visual studio 2017\Projects\Dota2 Status Lights\Dota2 Status Lights\obj\Release\Dota2 Status Lights.exe
+c:\users\aditya\documents\visual studio 2017\Projects\Dota2 Status Lights\Dota2 Status Lights\obj\Release\Dota2 Status Lights.pdb
